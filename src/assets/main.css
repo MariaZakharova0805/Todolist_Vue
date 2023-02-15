@@ -1,0 +1,18 @@
+@import "./base.css";
+
+body {
+  font-family: "Caveat";
+  background-image: url("./img/list.png");
+  background-size: cover;
+  font-size: 25px;
+}
+ul, li {
+  margin: 0 auto;
+  padding: 0 auto;
+}
+
+@media screen and (max-width: 630px) {
+  .container {
+    font-size: 25px;
+  }
+}
