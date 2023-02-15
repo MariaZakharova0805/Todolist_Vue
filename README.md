@@ -1,4 +1,6 @@
 # Check-list
+Cписок запланированных дел. В этот список можно добавлять дела. Можно удалять дела. Можно также помечать дела сделанными. Можно также редактировать дела.
+
 
 This template should help get you started developing with Vue 3 in Vite.
 
