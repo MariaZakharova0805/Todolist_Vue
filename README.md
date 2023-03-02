@@ -1,4 +1,7 @@
-# Check-list https://todolist-vue-two.vercel.app/
+# Check-list 
+
+<a href="https://todolist-vue-two.vercel.app/" target="_blank">Check on GitPages</a>
+
 Cписок запланированных дел.
 Функционал: добавление, редактирование, удаление дел, пометка дел как "сделанные".
 
